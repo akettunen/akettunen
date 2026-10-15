@@ -1,6 +1,6 @@
 # Hello!
 
-+ I like coding in Python.
++ I code Python.
 + I use Windows 11, CachyOS & Omarchy.
 
 
