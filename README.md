@@ -2,6 +2,7 @@
 
 + I code Python.
 + I use Windows 11, CachyOS & Omarchy.
++ I enjoy making sysfetches!
 
 
 <div align="left">
