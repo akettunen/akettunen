@@ -17,6 +17,6 @@
 
 
 
-My Website: https://akettunen.github.io/
+My Website: https://akettunen.github.io/ (if it doesnt work its private and under work.)
 
 Create your own "cool" readme: https://github.com/tandpfun/skill-icons
