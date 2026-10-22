@@ -13,10 +13,4 @@
   <img src="https://raw.githubusercontent.com/akx25/akx25/output/github-snake-dark.svg" alt="GitHub Snake">
 </p>
 
-
-
-
-
-My Website: https://akettunen.github.io/ (if it doesnt work its private and under work.)
-
 Create your own "cool" readme: https://github.com/tandpfun/skill-icons
