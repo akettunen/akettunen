@@ -18,4 +18,5 @@
 
 
 My Website: https://akettunen.github.io/
+
 Create your own "cool" readme: https://github.com/tandpfun/skill-icons
