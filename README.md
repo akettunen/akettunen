@@ -3,7 +3,6 @@
 + I mainly code Python & sometimes I try other languages.
 + I use Windows 11, CachyOS & Omarchy.
 + I enjoy making sysfetches!
-+ Could you please give a star to my repostory if you liked it?!
 
 
 <div align="left">
