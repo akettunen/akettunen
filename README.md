@@ -1,7 +1,7 @@
 # Hello!
 
 + I mainly code Python & sometimes I try other languages.
-+ I use Windows 11, CachyOS & Omarchy.
++ I use Windows 11 & Linux
 + I enjoy making sysfetches!
 
 
