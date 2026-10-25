@@ -3,7 +3,7 @@
 + I mainly code Python & sometimes I try other languages.
 + I use Windows 11 & Linux
 + I enjoy making sysfetches!
-+ Check out my website: [akettunen.github.io](https://akettunen.github.io/)
++ Check out my websites: [akettunen.github.io](https://akettunen.github.io/), https://akettunen.github.io/systemfetchcave.github.io/
 
 
 <div align="left">
