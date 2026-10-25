@@ -13,4 +13,4 @@
   <img src="https://raw.githubusercontent.com/akx25/akx25/output/github-snake-dark.svg" alt="GitHub Snake">
 </p>
 
-Create your own "cool" readme: https://github.com/tandpfun/skill-icons
+Create your own Skill Icons: https://github.com/tandpfun/skill-icons, https://skillicons.dev/, https://x.com/cdngdev
