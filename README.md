@@ -1,6 +1,6 @@
 # Hello!
 
-+ I mainly code Python & sometimes I try other languages.
++ I mainly code Python, HTML, Rust & sometimes I try other languages.
 + I use Windows 11 & Linux
 + I enjoy making sysfetches!
 + Check out my websites: [akettunen.github.io](https://akettunen.github.io/), https://akettunen.github.io/systemfetchcave
