@@ -7,7 +7,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,rust,discord,windows,linux,git,vscodium,vscode,visualstudio,github,vim,neovim," />
+  <img src="https://skillicons.dev/icons?i=py,rust,html,discord,windows,linux,git,vscodium,vscode,visualstudio,github,vim,neovim," />
 </div>
 
 <p>
