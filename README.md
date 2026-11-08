@@ -1,5 +1,5 @@
 # Hello there!
-
+## About me:
 + I mainly code Python, HTML, Rust & sometimes I try other languages.
 + I use Windows 11 & Linux
 + I enjoy making sysfetches!
