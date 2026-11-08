@@ -2,7 +2,7 @@
 ## About me:
 + I mainly code Python, HTML, Rust & sometimes I try other languages.
 + I use Windows 11 & Linux
-+ I enjoy making sysfetches!
++ I enjoy making sysfetches & other small coding projects!
 + Check out my websites: [akettunen.github.io](https://akettunen.github.io/), https://akettunen.github.io/systemfetchcave
 + Codeberg: https://codeberg.org/akettunen (also linked in profile)
 
