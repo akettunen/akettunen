@@ -5,6 +5,7 @@
 + I enjoy making systemfetches & other small coding projects!
 + Check out my websites: [akettunen.github.io](https://akettunen.github.io/), https://akettunen.github.io/systemfetchcave, [https://akettunen.github.io/mcserver](https://akettunen.github.io/mcservercave/)
 + Codeberg: https://codeberg.org/akettunen (also linked in profile)
++ Discord: https://discord.com/users/1555173111761215622 (also linked in profile)
 
 
 <div align="left">
