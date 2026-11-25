@@ -8,7 +8,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,rust,html,discord,windows,linux,git,vscodium,vscode,visualstudio,github,vim,neovim" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=codeberg,apple,claudecode,7zip,kitty" />
+  <img src="https://skillicons.dev/icons?i=py,rust,html,discord,windows,linux,git,vscodium,vscode,visualstudio,github,vim,neovim" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=codeberg" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=apple" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=claudecode" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=7zip" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=kitty" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=omarchy" />&nbsp;&nbsp;<img src="https://aerynos.com/_astro/logo.PPKEz_S1.svg" height="48" width="48" />
 </div>
 
 <p>
