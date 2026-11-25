@@ -15,4 +15,4 @@
   <img src="https://raw.githubusercontent.com/akx25/akx25/output/github-snake-dark.svg" alt="GitHub Snake">
 </p>
 
-Create your own Skill Icons: https://github.com/tandpfun/skill-icons, https://skillicons.dev/, https://x.com/cdngdev
+Create your own Skill Icons: https://github.com/tandpfun/skill-icons, https://skillicons.dev/, https://x.com/cdngdev, https://builder.syvixor.com/
