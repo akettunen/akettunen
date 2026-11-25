@@ -9,9 +9,8 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,rust,html,discord,windows,linux,git,vscodium,vscode,visualstudio,github,vim,neovim" />  <img src="https://skills.syvixor.com/api/icons?i=codeberg" />
+  <img src="https://skillicons.dev/icons?i=py,rust,html,discord,windows,linux,git,vscodium,vscode,visualstudio,github,vim,neovim" />&nbsp;&nbsp;<img src="https://skills.syvixor.com/api/icons?i=codeberg" />
 </div>
-
 <p>
   <img src="https://raw.githubusercontent.com/akx25/akx25/output/github-snake-dark.svg" alt="GitHub Snake">
 </p>
