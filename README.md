@@ -1,10 +1,9 @@
 # Hello there!
 ## About me:
-+ I mainly code Python, HTML, Rust & sometimes I try other languages.
++ I mainly code [Python](https://www.python.org/), [HTML](https://html.spec.whatwg.org/), [Rust](https://rust-lang.org/) & sometimes I try other languages.
 + I enjoy making small coding projects!
-+ Check out my websites: [akettunen.github.io](https://akettunen.github.io/), https://akettunen.github.io/systemfetchcave, [https://akettunen.github.io/mcserver](https://akettunen.github.io/mcservercave/)
-+ Codeberg: https://codeberg.org/akettunen (also linked in profile)
-+ Discord: https://discord.com/users/1555173111761215622 (also linked in profile)
++ [My Codeberg](https://codeberg.org/akettunen) (also linked in profile)
++ [My Discord](https://discord.com/users/1555173111761215622) (also linked in profile)
 
 
 <div align="left">
@@ -14,5 +13,3 @@
 <p>
   <img src="https://raw.githubusercontent.com/akx25/akx25/output/github-snake-dark.svg" alt="GitHub Snake">
 </p>
-
-Create your own Skill Icons: https://github.com/tandpfun/skill-icons, https://skillicons.dev/, https://x.com/cdngdev, https://builder.syvixor.com/
