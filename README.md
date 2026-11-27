@@ -3,7 +3,7 @@
 + I mainly code [Python](https://www.python.org/), [HTML](https://html.spec.whatwg.org/), [Rust](https://rust-lang.org/) & sometimes I try other languages.
 + I enjoy making small coding projects!
 i use arch btw 
-## My socials
+## Socials
 + [My Codeberg](https://codeberg.org/akettunen) (also linked in profile)
 + [Add me on Discord](https://discord.com/users/1555173111761215622) (also linked in profile)
 
